@@ -1,5 +1,5 @@
-# structura
+![logo](https://github.com/SynergyStudios/structura-oauth/blob/main/structlogobanner.png)
 
-![logo](https://i0.wp.com/tobilobakujore.com/wp-content/uploads/2024/07/structlogobanner.png)
-Thank you for connecting your Discord account. 
-You can now return to the application.
+Login successful!
+**Thank you for connecting your Discord account.**
+> You can now return to the application.
